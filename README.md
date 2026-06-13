@@ -3,7 +3,7 @@
 <br><br>
 
 <p>
-  <img align="right" src="https://media.tenor.com/ePGZeOFgCBwAAAAM/davy-jones-provando-monster-de-cafe-e-no-finalzinho-vem-um-negocinho.gif" width="400">
+  <img align="right" src="https://media.tenor.com/ePGZeOFgCBwAAAAM/davy-jones-provando-monster-de-cafe-e-no-finalzinho-vem-um-negocinho.gif" width="500">
 </p>
 
 Linguagens que sei:
